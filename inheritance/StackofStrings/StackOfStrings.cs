@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomStack
+{
+    internal class StackOfStrings:Stack<string>
+    {
+         public bool IsEmpty()
+        {
+            if (this.Count==0)
+            {
+                return true;
+            }
+            return false;
+        }
+        public Stack<string> AddRange(IEnumerable<string> collection)
+        {
+            foreach (var item in collection)
+            {
+                this.Push(item);
+            }
+            return this;
+        }
+    }
+}
