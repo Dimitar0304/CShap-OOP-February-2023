@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Restaurant
+namespace Restaurant;
+
+public class HotBeverage : Beverage
 {
-    public class HotBeverage:Beverage
+    public HotBeverage(string name, decimal price, double milliliters)
+        : base(name, price, milliliters)
     {
-        public HotBeverage(string name,decimal price,double mililitres):base(name,price,mililitres)
-        {
-            
-        }
     }
 }

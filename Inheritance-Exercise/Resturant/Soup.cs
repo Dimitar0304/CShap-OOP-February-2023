@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Restaurant
+namespace Restaurant;
+
+public class Soup : Starter
 {
-    public class Soup:MainDish
+    public Soup(string name, decimal price, double grams)
+        : base(name, price, grams)
     {
-        public Soup(string name,decimal price,double grams):base(name,price,grams)
-        {
-            
-        }
     }
 }

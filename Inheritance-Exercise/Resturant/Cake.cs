@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Restaurant
-{
-    public class Cake:Dessert
-    {
-        public Cake(string name,decimal price,double grams,double calories):base(name,price,grams,calories)
-        {
-            grams = 200;
-            calories = 1000;
-            price = 5;
-        }
+namespace Restaurant;
 
+public class Cake : Dessert
+{
+    private const double CakeGrams = 250;
+    private const double CakeCalories = 1000;
+    private const decimal CakePrice = 5M;
+
+    public Cake(string name)
+        : base(name, CakePrice, CakeGrams, CakeCalories)
+    {
     }
 }

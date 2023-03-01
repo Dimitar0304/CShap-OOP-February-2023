@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Restaurant
+namespace Restaurant;
+
+public class Fish : MainDish
 {
-    public class Fish:MainDish
+    private const double FishGrams = 22;
+
+    public Fish(string name, decimal price)
+        : base(name, price, FishGrams)
     {
-        public Fish(string name,decimal price,double grams):base(name, price, grams)
-        {
-            grams = 22;
-        }
     }
 }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Restaurant;
 
-public class MainDish : Food
+public class Starter : Food
 {
-    public MainDish(string name, decimal price, double grams)
+    public Starter(string name, decimal price, double grams)
         : base(name, price, grams)
     {
     }
