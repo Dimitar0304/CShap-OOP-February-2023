@@ -1,0 +1,17 @@
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\IocExampe01.exe
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\IocExampe01.deps.json
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\IocExampe01.runtimeconfig.json
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\IocExampe01.dll
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\IocExampe01.pdb
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\bin\Debug\net6.0\Autofac.dll
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.csproj.AssemblyReference.cache
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.AssemblyInfoInputs.cache
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.AssemblyInfo.cs
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.csproj.CoreCompileInputs.cache
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.csproj.CopyComplete
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.dll
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\refint\IocExampe01.dll
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.pdb
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\IocExampe01.genruntimeconfig.cache
+C:\Users\lasss\source\repos\IoCFramework\IocExampe01\obj\Debug\net6.0\ref\IocExampe01.dll

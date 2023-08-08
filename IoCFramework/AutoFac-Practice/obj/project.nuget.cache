@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gxq3k94Ynx0qbPtUVKeywlFMD/c2xJaGRX1iP8R2nbiKxKKSFnbJMos9KvlGnGxnBNiqHBdFokcfjDPnc4eiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lasss\\source\\repos\\IoCFramework\\AutoFac-Practice\\AutoFac-Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lasss\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\lasss\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\lasss\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lasss\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
