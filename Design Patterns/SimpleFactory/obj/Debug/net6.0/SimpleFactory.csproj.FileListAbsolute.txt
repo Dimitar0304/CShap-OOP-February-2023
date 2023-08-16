@@ -1,0 +1,15 @@
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\lasss\source\repos\Design Patterns\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
