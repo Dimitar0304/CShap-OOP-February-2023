@@ -1,0 +1,15 @@
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\bin\Debug\net6.0\FactoryPatternExample3.exe
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\bin\Debug\net6.0\FactoryPatternExample3.deps.json
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\bin\Debug\net6.0\FactoryPatternExample3.runtimeconfig.json
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\bin\Debug\net6.0\FactoryPatternExample3.dll
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\bin\Debug\net6.0\FactoryPatternExample3.pdb
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.csproj.AssemblyReference.cache
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.AssemblyInfoInputs.cache
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.AssemblyInfo.cs
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.csproj.CoreCompileInputs.cache
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.dll
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\refint\FactoryPatternExample3.dll
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.pdb
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\FactoryPatternExample3.genruntimeconfig.cache
+C:\Users\lasss\source\repos\Design Patterns\FactoryPatternExample3\obj\Debug\net6.0\ref\FactoryPatternExample3.dll
